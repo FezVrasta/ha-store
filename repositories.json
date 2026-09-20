@@ -4,12 +4,14 @@
     {
       "repository": "FezVrasta/ha-rbac",
       "category": "integration",
-      "name": "Access Control (RBAC)"
+      "name": "Access Control (RBAC)",
+      "icon": "https://raw.githubusercontent.com/FezVrasta/ha-rbac/main/custom_components/ha_rbac/brand/icon.png"
     },
     {
       "repository": "FezVrasta/growatt-datalogger",
       "category": "integration",
-      "name": "Growatt Datalogger"
+      "name": "Growatt Datalogger",
+      "icon": "https://raw.githubusercontent.com/FezVrasta/growatt-datalogger/main/custom_components/growatt_datalogger/brand/icon.png"
     },
     {
       "repository": "FezVrasta/cafe-hass",
@@ -19,22 +21,26 @@
     {
       "repository": "FezVrasta/ducted-hvac",
       "category": "integration",
-      "name": "Ducted HVAC"
+      "name": "Ducted HVAC",
+      "icon": "https://raw.githubusercontent.com/FezVrasta/ducted-hvac/master/custom_components/ducted_hvac/brand/icon.png"
     },
     {
       "repository": "FezVrasta/iseo-argo-ble",
       "category": "integration",
-      "name": "ISEO Argo BLE"
+      "name": "ISEO Argo BLE",
+      "icon": "https://raw.githubusercontent.com/FezVrasta/iseo-argo-ble/master/custom_components/iseo_argo_ble/brand/icon.png"
     },
     {
       "repository": "FezVrasta/ha-nespresso-smart",
       "category": "integration",
-      "name": "Nespresso Smart"
+      "name": "Nespresso Smart",
+      "icon": "https://raw.githubusercontent.com/FezVrasta/ha-nespresso-smart/main/custom_components/nespresso_smart/brand/icon.png"
     },
     {
       "repository": "FezVrasta/ha-trakt-scrobbler",
       "category": "integration",
-      "name": "Trakt Scrobbler"
+      "name": "Trakt Scrobbler",
+      "icon": "https://raw.githubusercontent.com/FezVrasta/ha-trakt-scrobbler/main/custom_components/trakt_scrobbler/brand/icon.png"
     },
     {
       "repository": "FezVrasta/ai-subscription-assist",
@@ -45,18 +51,21 @@
     {
       "repository": "FezVrasta/ha-unipolsai",
       "category": "integration",
-      "name": "UnipolSai Unibox"
+      "name": "UnipolSai Unibox",
+      "icon": "https://raw.githubusercontent.com/FezVrasta/ha-unipolsai/main/custom_components/unipolsai/brand/icon.png"
     },
     {
       "repository": "FezVrasta/ha-enablebanking",
       "category": "integration",
       "name": "Enable Banking",
-      "fork_of": "SurfHost/ha-enablebanking"
+      "fork_of": "SurfHost/ha-enablebanking",
+      "icon": "https://raw.githubusercontent.com/FezVrasta/ha-enablebanking/main/custom_components/enablebanking/brand/icon.png"
     },
     {
       "repository": "FezVrasta/eon-energia-italia-hass",
       "category": "integration",
-      "name": "EON Energia Italia"
+      "name": "EON Energia Italia",
+      "icon": "https://raw.githubusercontent.com/FezVrasta/eon-energia-italia-hass/main/custom_components/eon_energia/icon.png"
     },
     {
       "repository": "FezVrasta/ha-quick-popup",
