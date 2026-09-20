@@ -15,16 +15,13 @@ HACS has no notion of a repository of repositories: one repo is one integration,
 | **[ISEO Argo BLE](https://github.com/FezVrasta/iseo-argo-ble)** | ISEO Argo Bluetooth smart locks, local only. | [Add to HACS](https://my.home-assistant.io/redirect/hacs_repository/?owner=FezVrasta&repository=iseo-argo-ble&category=integration) |
 | **[Nespresso Smart](https://github.com/FezVrasta/ha-nespresso-smart)** | Local Bluetooth control of Nespresso Vertuo machines (Pop, Pop+, Next, Lattissima, Creatista). Unofficial. | [Add to HACS](https://my.home-assistant.io/redirect/hacs_repository/?owner=FezVrasta&repository=ha-nespresso-smart&category=integration) |
 | **[Trakt Scrobbler](https://github.com/FezVrasta/ha-trakt-scrobbler)** | Scrobbles your media players to Trakt. Works out the exact episode from the player's thumbnail, so it handles the Apple TV. | [Add to HACS](https://my.home-assistant.io/redirect/hacs_repository/?owner=FezVrasta&repository=ha-trakt-scrobbler&category=integration) |
-| **[AI Subscription Assist](https://github.com/FezVrasta/ai-subscription-assist)** | Use a Claude subscription as a conversation agent and a speech-to-text engine. No API key. | [Add to HACS](https://my.home-assistant.io/redirect/hacs_repository/?owner=FezVrasta&repository=ai-subscription-assist&category=integration) |
 | **[UnipolSai Unibox](https://github.com/FezVrasta/ha-unipolsai)** | The Unipol Unibox telematics box: car position, trips, battery. | [Add to HACS](https://my.home-assistant.io/redirect/hacs_repository/?owner=FezVrasta&repository=ha-unipolsai&category=integration) |
-| **[Enable Banking](https://github.com/FezVrasta/ha-enablebanking)** | PSD2 bank balances. Fork with security, privacy and correctness fixes, plus a test suite. | [Add to HACS](https://my.home-assistant.io/redirect/hacs_repository/?owner=FezVrasta&repository=ha-enablebanking&category=integration) |
 | **[EON Energia Italia](https://github.com/FezVrasta/eon-energia-italia-hass)** | Electricity consumption from EON Energia (Italy). | [Add to HACS](https://my.home-assistant.io/redirect/hacs_repository/?owner=FezVrasta&repository=eon-energia-italia-hass&category=integration) |
 
 ## Cards
 
 | | What it does | |
 |---|---|---|
-| **[M3 Cards](https://github.com/FezVrasta/m3-cards)** | 38 Material 3 cards, built natively with Lit. No button-card, no card-mod. | [Add to HACS](https://my.home-assistant.io/redirect/hacs_repository/?owner=FezVrasta&repository=m3-cards&category=plugin) |
 | **[Quick Popup](https://github.com/FezVrasta/ha-quick-popup)** | Popups and bottom sheets for dashboards. The browser_mod.popup feature, frontend only. | [Add to HACS](https://my.home-assistant.io/redirect/hacs_repository/?owner=FezVrasta&repository=ha-quick-popup&category=plugin) |
 | **[Glass Thermostat Card](https://github.com/FezVrasta/glass-thermostat-card)** | Liquid glass thermostat. | [Add to HACS](https://my.home-assistant.io/redirect/hacs_repository/?owner=FezVrasta&repository=glass-thermostat-card&category=plugin) |
 | **[Swipe Card Lite](https://github.com/FezVrasta/swipe-card-lite)** | Lightweight swipe carousel. | [Add to HACS](https://my.home-assistant.io/redirect/hacs_repository/?owner=FezVrasta&repository=swipe-card-lite&category=plugin) |
