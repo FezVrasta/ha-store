@@ -1,0 +1,21 @@
+{
+  "owner": "FezVrasta",
+  "repositories": [
+    { "repository": "FezVrasta/ha-rbac", "category": "integration", "name": "Access Control (RBAC)" },
+    { "repository": "FezVrasta/growatt-datalogger", "category": "integration", "name": "Growatt Datalogger" },
+    { "repository": "FezVrasta/cafe-hass", "category": "integration", "name": "C.A.F.E." },
+    { "repository": "FezVrasta/ducted-hvac", "category": "integration", "name": "Ducted HVAC" },
+    { "repository": "FezVrasta/iseo-argo-ble", "category": "integration", "name": "ISEO Argo BLE" },
+    { "repository": "FezVrasta/ha-nespresso-smart", "category": "integration", "name": "Nespresso Smart" },
+    { "repository": "FezVrasta/ha-trakt-scrobbler", "category": "integration", "name": "Trakt Scrobbler" },
+    { "repository": "FezVrasta/ai-subscription-assist", "category": "integration", "name": "AI Subscription Assist" },
+    { "repository": "FezVrasta/ha-unipolsai", "category": "integration", "name": "UnipolSai Unibox" },
+    { "repository": "FezVrasta/ha-enablebanking", "category": "integration", "name": "Enable Banking" },
+    { "repository": "FezVrasta/eon-energia-italia-hass", "category": "integration", "name": "EON Energia Italia" },
+    { "repository": "FezVrasta/m3-cards", "category": "plugin", "name": "M3 Cards" },
+    { "repository": "FezVrasta/ha-quick-popup", "category": "plugin", "name": "Quick Popup" },
+    { "repository": "FezVrasta/glass-thermostat-card", "category": "plugin", "name": "Glass Thermostat Card" },
+    { "repository": "FezVrasta/swipe-card-lite", "category": "plugin", "name": "Swipe Card Lite" },
+    { "repository": "FezVrasta/pull-down-card", "category": "plugin", "name": "Pull Down Card" }
+  ]
+}
