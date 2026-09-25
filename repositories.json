@@ -68,6 +68,12 @@
       "icon": "https://raw.githubusercontent.com/FezVrasta/eon-energia-italia-hass/main/custom_components/eon_energia/icon.png"
     },
     {
+      "repository": "FezVrasta/ha-notes-vault",
+      "category": "integration",
+      "name": "Notes Vault",
+      "icon": "https://raw.githubusercontent.com/FezVrasta/ha-notes-vault/main/custom_components/notes_vault/brand/icon.png"
+    },
+    {
       "repository": "FezVrasta/ha-quick-popup",
       "category": "plugin",
       "name": "Quick Popup"
